@@ -1,4 +1,0 @@
-diamond
-=======
-
-Diamond dojo problem
