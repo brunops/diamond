@@ -32,7 +32,7 @@ function printDiamond(letter) {
     printLetter(getLetterFromCode(ACode + i));
   }
 
-  for (var i = lettersSize; i >= 0; i--) {
+  for (i = lettersSize; i >= 0; i--) {
     printLetter(getLetterFromCode(ACode + i));
   }
 
